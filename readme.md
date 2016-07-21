@@ -1,0 +1,1 @@
+Angulajs practice: ng-view
