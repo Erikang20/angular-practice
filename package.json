@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Erikang20/angular-practice/issues"
   },
-  "homepage": "https://github.com/Erikang20/angular-practice#readme"
+  "homepage": "https://github.com/Erikang20/angular-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2"
+  }
 }
